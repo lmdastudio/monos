@@ -13,6 +13,9 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "lmdastudio",
+  "license": "MIT",
+  "icon": "assets/monos.png",
   "contributes": {
     "themes": [
       {
